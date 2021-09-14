@@ -1,10 +1,10 @@
-### Hi, there xiaozhou 👋
+### Hi there, I'm xiaozhou 👋
 
 We Are All Made Of Star Stuff 🎨
 
 <!--![Vben's github stats](https://github-readme-stats.vercel.app/api?username=XIAOZHOUGUO&show_icons=true&theme=vue) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIAOZHOUGUO)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIAOZHOUGUO) -->
 
 <!--
 - 🔭 I’m currently working on ...
