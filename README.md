@@ -4,7 +4,9 @@ We Are All Made Of Star Stuff 🎨
 
 <!-- ![XIAOZHOU's github stats](https://github-readme-stats.vercel.app/api?username=XIAOZHOUGUO&show_icons=true&theme=vue) -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIAOZHOUGUO)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIAOZHOUGUO&layout=compact&show_icons=true&theme=vue)
+
+<!-- ![XIAOZHOU's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XIAOZHOU&layout=compact&show_icons=true&theme=vue)  -->
 
 <!--
 - 🔭 I’m currently working on ...
